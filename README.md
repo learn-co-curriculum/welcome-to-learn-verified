@@ -9,3 +9,5 @@ When you first start learning to code the amount of setup and content you have t
 What follows is learning to code with the training wheels removed. Once you get past Git and HTML/CSS, you will see more Ruby. As you open the sidebar on Ruby you will notice that you've already completed parts of it! Congrats! This is content that came from the Intro to Ruby track. We recommend that you go linearly, starting with pieces of content you haven't completed. The content goes much deeper into each topic then what you experienced in the Intro track. If you feel like you don't understand a concept fully, go back and re-read the Intro material.
 
 It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
+
+<a href='https://learn.co/lessons/welcome-to-learn-verified' data-visibility='hidden'>View this lesson on Learn.co</a>
