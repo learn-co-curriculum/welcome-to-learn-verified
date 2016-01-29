@@ -10,4 +10,4 @@ What follows is learning to code with the training wheels removed. Once you get 
 
 It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
 
-<a href='https://learn.co/lessons/welcome-to-learn-verified' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/welcome-to-learn-verified' title='Welcome'>Welcome</a> on Learn.co and start learning to code for free.</p>
