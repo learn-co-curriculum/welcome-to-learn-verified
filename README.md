@@ -14,8 +14,9 @@ We provide a wide range of instructional services and it's really important that
 
 ### Ask A Question
 
-Whenever you get stuck for more than a few minutes, start by clicking on the "Ask A Question" button at the top right of [learn.co](https://learn.co/). We have a team of Technical Coaches who will respond to you ASAP (usually within a minute) and if they can't get you going again with a couple of comments, they'll set you up with a screenshare where you get 20 minutes of personalized 1:1 support. We usually try to get you on a screenshare within 30-45 minutes of connecting with you, although at busy times it may take a little longer.
+Whenever you get stuck for more than a few minutes, start by clicking on the "Ask A Question" button at the top right of [learn.co](https://learn.co/). We have a team of Technical Coaches who will respond to you ASAP (usually within a minute) and if they can't get you going again with a couple of comments, they'll set you up with a screenshare where you get 20 minutes of personalized 1:1 support. We usually try to get you on a screenshare within 30-45 minutes of connecting with you, although at busy times it may take a little longer. Make sure to use Ask A Question early and often. It's the best way to get immediate help with labs.
 
+It is important to realize that Ask A Question is an educational - not customer support - function. Their goal isn't to tell you the answer (we could email you all of the answers for the whole course but that wouldn't help you to become a programmer). Their goal is to help you to learn how to learn by asking questions and helping you to get better at key tasks like reading error messages and googling for answers. It'd be quicker for us just to tell you the answers, but our goal is to help you to build the skills to succeed as a professional developer, and the most important skill a developer has is the ability to figure things out on their own.
 
 
 It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
