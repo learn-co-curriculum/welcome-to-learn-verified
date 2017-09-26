@@ -22,6 +22,6 @@ If you don't already have the Learn IDE, make sure to download it now and sign i
 
 As you go through the curriculum, we know you are concerned about what the end looks like. More specifically, we bet you are interested in how getting a job as a software engineer works here at The Flatiron School. Well! Rebekah, our VP of Career Services put together this little video to answer your burning questions. Enjoy!
 
-<iframe width="100%" height="720" src="https://www.youtube.com/watch?v=sn5MUV_NY0k?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><a href="https://www.youtube.com/watch?v=sn5MUV_NY0k">Career Services Intro Video</a>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sn5MUV_NY0k?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=sn5MUV_NY0k">Career Services Intro Video</a></p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/welcome-to-learn-verified' title='Welcome'>Welcome</a> on Learn.co and start learning to code for free.</p>
