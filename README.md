@@ -10,6 +10,14 @@ What follows is learning to code with the training wheels removed. Once you get 
 
 It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
 
+## The Learn IDE
+
+If you don't already have the Learn IDE, make sure to download it now and sign in with your Learn account. 
+
+<a href="https://learn.co/ide-3/download">
+  <img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/download-ide-button.png" />
+</a>
+
 ## Career Services
 
 As you go through the curriculum, we know you are concerned about what the end looks like. More specifically, we bet you are interested in how getting a job as a software engineer works here at The Flatiron School. Well! Rebekah, our VP of Career Services put together this little video to answer your burning questions. Enjoy!
