@@ -24,6 +24,18 @@ Whenever you get stuck for more than a few minutes, start by clicking on the "As
 
 It is important to realize that Ask A Question is an educational - not customer support - function. Their goal isn't to tell you the answer (we could email you all of the answers for the whole course but that wouldn't help you to become a programmer). Their goal is to help you to learn how to learn by asking questions and helping you to get better at key tasks like reading error messages and googling for answers. It'd be quicker for us just to tell you the answers, but our goal is to help you to build the skills to succeed as a professional developer, and the most important skill a developer has is the ability to figure things out on their own.
 
+## Study Groups
+
+You can host your own study groups to connect with and learn with other students. However, we also run overr 40 study groups a week that are "Flatiron hosted" to help you to learn to code.
+
+There are seven different types of study groups:
+- **Orientation**: Optional advice and information on getting started with the program. Usually on Wednesdays every week.
+- **Motivational** (Thoughtful Thursday, Coders Unite, etc): The objective of these is to allow students to connect and chat about their experiences of being on learn and to motivate each other.
+- **Office Hours**: A chance to connect with an instructor to ask any technical questions you might have
+- **Portfolio Project Prep**: A chance to talk with an instructor about any questions you might have about designing or building your portfolio project review app
+- **Lab Specific**: A combination of code along and a description of the underlying concepts.
+- **Technical**: A study group that focuses on a key concept rather than a specific lab.
+- **Advanced**: Technical study groups covering content not specifically within the core curriculum like algorithms or Test Driven Development.
 
 It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
 
