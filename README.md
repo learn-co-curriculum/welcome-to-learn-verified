@@ -39,6 +39,10 @@ There are seven different types of study groups:
 
 Make sure to sign up for at least one study group a week. They're a great way to see other perspectives, to pick up tough topics, to get your questions answered and to connect with your peers in the program.
 
+### Project 1:1's
+
+Most of the time on Learn, you're going to be working through readme's (lessons that only require you to read some text or watch a video) and labs (where you have to write code to get tests to pass). However, there are also five Portfolio Projects where you get to build a complete app from scratch. If you have questions about how to get started with your portfolio project or get stuck while working on it, instead of using Ask A Question, schedule a session with a Technical coach [here](http://bit.ly/portfolio-project-support). Filling out the form will pair you with a coach that specializes in helping students with the project you're working on.
+
 
 
 It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
