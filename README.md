@@ -8,6 +8,15 @@ When you first start learning to code the amount of setup you have to do to get 
 
 Once you've completed your first portfolio project review, you can then look into setting up a [local environment](http://help.learn.co/workflow-tips/local-environment/installing-a-supported-local-environment). There are lots of ways of getting your computer set up for programming (especially if you have a Mac or run a version of Linux as your operating system), but the way above (using a "Virtual Machine" - a separate computer within your computer) is the only one we can provide support for. If you have any more questions about when to move from the IDE to a local environment, [this article](http://help.learn.co/the-learn-ide/the-basics-of-the-learn-ide/using-the-ide-versus-a-local-environment) should help!
 
+## Instructional support
+
+We provide a wide range of instructional services and it's really important that you take advantage of them if you want to succeed. The key resources are Ask A Question, Study Groups, Project 1:1's and Section Lead 1:1's.
+
+### Ask A Question
+
+Whenever you get stuck for more than a few minutes, start by clicking on the "Ask A Question" button at the top right of [learn.co](https://learn.co/). We have a team of Technical Coaches who will respond to you ASAP (usually within a minute) and if they can't get you going again with a couple of comments, they'll set you up with a screenshare where you get 20 minutes of personalized 1:1 support. We usually try to get you on a screenshare within 30-45 minutes of connecting with you, although at busy times it may take a little longer.
+
+
 
 It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
 
