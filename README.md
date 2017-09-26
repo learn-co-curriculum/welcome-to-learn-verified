@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the Learn-Verified Full Stack Web Development track. Over the next 600-800 hours you will learn everything you need to know to be a Full Stack Web Developer. Before you get started, just a few thoughts about how our curriculum is laid out.
+Welcome to the Learn-Verified Full Stack Web Development track. Over the next 800-1000 hours you will learn everything you need to know to be a Full Stack Web Developer. Before you get started, just a few thoughts about how our curriculum is laid out.
 
 ## Training Wheels
 
