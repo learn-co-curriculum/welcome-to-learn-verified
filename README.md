@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the Learn-Verified Full Stack Web Development track. Over the next 800-1000 hours you will learn everything you need to know to get started as a Full Stack Web Developer. Before you get started, just a few thoughts about to learn best using learn.co.
+Welcome to the Learn-Verified Full Stack Web Development track. Over the next 800-1000 hours you will learn everything you need to know to get started as a Full Stack Web Developer. Before you get started, just a few thoughts about to learn best using learn.co. It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
 
 ## Learning How To Learn
 
@@ -45,9 +45,7 @@ Most of the time on Learn, you're going to be working through readme's (lessons 
 
 ### Section Lead 1:1's
 
-If you are really getting stuck and using Ask A Question isn't helping and attending study groups isn't getting you the support you need, you can also reach out to your section lead.
-
-It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
+If you are really getting stuck and using Ask A Question isn't helping and attending study groups isn't getting you the support you need, you can also reach out to your section lead to [schedule a 1:1](http://bit.ly/section-lead-support).
 
 ## Career Services
 
