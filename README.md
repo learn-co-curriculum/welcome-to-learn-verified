@@ -2,6 +2,12 @@
 
 Welcome to the Learn-Verified Full Stack Web Development track. Over the next 800-1000 hours you will learn everything you need to know to get started as a Full Stack Web Developer. Before you get started, just a few thoughts about how our curriculum is laid out.
 
+## Learning How To Learn
+
+The most common misconception we get when people start this course is that we're teaching you Ruby, Javascript, HTML and CSS. Don't get me wrong, we are going to teach you those things, but that's actually not the most important thing you're going to learn.
+
+Over your career as a professional developer you're probably going to end up programming in languages that haven't been invented yet. The most important thing we're going to teach you is how to learn. Using the technologies above, we'll work with you to build the skills to read and understand error messages and to google for the answers so when you get a job as a developer, when you have to learn a new library, framework or language, you'll know just how to go about doing so. We'll also teach you this first set of languages so that you can contribute immediately using them as a junior software developer.
+
 ## The Learn IDE
 
 When you first start learning to code the amount of setup you have to do to get your computer ready to really *make* something can be frustrating. To counter this, we created the Learn IDE. If you haven't already, you should [download the Learn IDE now](http://help.learn.co/the-learn-ide/how-to-download-and-use-learn-ide-3). The Learn IDE uses a popular programmers text editor (Atom) and also provides you with a terminal window for running commands, just as you would as a professional developer. However, instead of having to configure your local computer to allow you to program, it runs your commands on a remote computer so you can start right away with programming - not configuring of your computer. Bear in mind, using the IDE does mean you will have to be connected to the Internet while you program, but it's a much easier way to get started.
