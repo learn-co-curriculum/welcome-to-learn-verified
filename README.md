@@ -34,7 +34,7 @@ There are seven different types of study groups:
 - **Office Hours**: A chance to connect with an instructor to ask any technical questions you might have
 - **Portfolio Project Prep**: A chance to talk with an instructor about any questions you might have about designing or building your portfolio project review app
 - **Lab Specific**: A combination of code along and a description of the underlying concepts.
-- **Technical**: A study group that focuses on a key concept rather than a specific lab.
+- **Live Lecture**: A study group that focuses on a key concept rather than a specific lab.
 - **Advanced**: Technical study groups covering content not specifically within the core curriculum like algorithms or Test Driven Development.
 
 Make sure to sign up for at least one study group a week. They're a great way to see other perspectives, to pick up tough topics, to get your questions answered and to connect with your peers in the program.
