@@ -47,6 +47,10 @@ Most of the time on Learn, you're going to be working through readme's (lessons 
 
 If you are really getting stuck and using Ask A Question isn't helping and attending study groups isn't getting you the support you need, you can also reach out to your section lead to [schedule a 1:1](http://bit.ly/section-lead-support).
 
+### Educational Coaching
+
+We offer the opportunity to speak with an Educational Coach as a non-technical support to check-in and help you stay accountable to your goals, anchor to your motivation in learning to code, and make steady forward progress at a pace that is right for you. If you are interested in this resource and would like to be paired with a coach, please email edcoaching@flatironschool.com and let us know about your goals in learning to code!
+
 ## The Learn IDE
 
 If you don't already have the Learn IDE, make sure to download it now and sign in with your Learn account. 
@@ -57,7 +61,7 @@ If you don't already have the Learn IDE, make sure to download it now and sign i
 
 ## Career Services
 
-As you go through the curriculum, we know you are concerned about what the end looks like. More specifically, we bet you are interested in how getting a job as a software engineer works here at The Flatiron School. Well! Rebekah, our VP of Career Services put together this little video to answer your burning questions. Enjoy!
+As you go through the curriculum, we know you are concerned about what the end looks like. More specifically, we bet you are interested in how getting a job as a software engineer works here at The Flatiron School. Well! Rebekah, our VP of Career Services put together this video to answer your burning questions. Enjoy!
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=sn5MUV_NY0k?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=sn5MUV_NY0k">Career Services Intro Video</a></p>
 
