@@ -29,7 +29,7 @@ It is important to realize that Ask A Question is an educational - not customer 
 You can host your own study groups to connect with and learn with other students. However, we also run over 40 study groups a week that are "Flatiron hosted" to help you to learn to code.
 
 There are seven different types of study groups:
-- **Orientation**: Optional advice and information on getting started with the program. Usually on Wednesdays every week.
+- **Orientation**: Optional advice and information on getting started with the program. Usually on Mondays every week. If you can't make it, feel free to watch the recorded version [here](https://www.youtube.com/watch?v=I9iOq3EZxfE)
 - **Motivational** (Thoughtful Thursday, Coders Unite, etc): The objective of these is to allow students to connect and chat about their experiences of being on learn and to motivate each other.
 - **Office Hours**: A chance to connect with an instructor to ask any technical questions you might have
 - **Portfolio Project Prep**: A chance to talk with an instructor about any questions you might have about designing or building your portfolio project review app
