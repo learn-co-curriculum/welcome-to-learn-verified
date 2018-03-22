@@ -51,13 +51,9 @@ If you are really getting stuck and using Ask A Question isn't helping and atten
 
 We offer the opportunity to speak with an Educational Coach as a non-technical support to check-in and help you stay accountable to your goals, anchor to your motivation in learning to code, and make steady forward progress at a pace that is right for you. If you are interested in this resource and would like to be paired with a coach, please email edcoaching@flatironschool.com and let us know about your goals in learning to code!
 
-## The Learn IDE
+## The Learn IDE In Browser
 
-If you don't already have the Learn IDE, make sure to download it now and sign in with your Learn account. 
-
-<a href="https://learn.co/ide-3/download">
-  <img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/download-ide-button.png" />
-</a>
+The IDE In Browser is the fastest way to get coding on Learn. If you are not already using the IDE In Browser take a look at [this support article](http://help.learn.co/the-learn-ide/ide-in-browser).
 
 ## Career Services
 
