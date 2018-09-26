@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the Learn-Verified Full Stack Web Development track. Over the next 800-1000 hours you will learn everything you need to know to get started as a Full Stack Web Developer. Before you get started, just a few thoughts about to learn best using learn.co. It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
+Welcome to Learn! Over the next 800-1000 hours you will learn everything you need to know to get started as a Full Stack Web Developer. Before you get started, just a few thoughts about to learn best using learn.co. It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
 
 ## Learning How To Learn
 
@@ -43,9 +43,11 @@ Make sure to sign up for at least one study group a week. They're a great way to
 
 Most of the time on Learn, you're going to be working through readme's (lessons that only require you to read some text or watch a video) and labs (where you have to write code to get tests to pass). However, there are also five Portfolio Projects where you get to build a complete app from scratch. If you have questions about how to get started with your portfolio project or get stuck while working on it, instead of using Ask A Question, schedule a session with a Technical coach [here](http://bit.ly/portfolio-project-support). Filling out the form will pair you with a coach that specializes in helping students with the project you're working on.
 
-### Section Lead 1:1's
+### Section Leads
 
-If you are really getting stuck and using Ask A Question isn't helping and attending study groups isn't getting you the support you need, you can also reach out to your section lead to [schedule a 1:1](http://bit.ly/section-lead-support).
+Section Leads are your Instructors. You’ll have a designated Section Lead for each major section of the curriculum, who is responsible for making sure our students are successful in that part of the course. Section Leads also conduct 1:1 Project Reviews to determine whether students are prepared to move onto the next section. 
+
+Contact information for each Section Lead can be found here: http://help.learn.co/instructional-support/receiving-course-support/who-are-the-section-leads
 
 ### Educational Coaching
 
